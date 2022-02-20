@@ -1,2 +1,4 @@
-package barkingDog;public class Main {
+package barkingDog;
+
+public class Main {
 }

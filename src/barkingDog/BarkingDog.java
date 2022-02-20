@@ -1,2 +1,4 @@
-package barkingDog;public class BarkingDog {
+package barkingDog;
+
+public class BarkingDog {
 }
